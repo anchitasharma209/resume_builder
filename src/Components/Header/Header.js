@@ -34,11 +34,11 @@ function Header(props) {
       <Typography variant="h6" sx={{ my: 2 }}>
         <NavLink to="/">
           {" "}
-          <img
+          {/* <img
             src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2Fimage_19400_1_5042248765.png&w=256&q=75"
             height="30px"
             alt="Alma Better"
-          />
+          /> */}
         </NavLink>
       </Typography>
       <Divider />
@@ -90,11 +90,11 @@ function Header(props) {
                 }}>
                 <NavLink to="/" className="homeIcon">
                   {" "}
-                  <img
+                  {/* <img
                     src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2Fimage_19400_1_5042248765.png&w=256&q=75"
                     height="30px"
                     alt="Alma Better"
-                  />
+                  /> */}
                 </NavLink>
               </Typography>
               <Box sx={{ display: { xs: "none", sm: "block" } }}>
