@@ -35,9 +35,9 @@ function Header(props) {
         <NavLink to="/">
           {" "}
           <img
-            src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FAlma_Better_Logo_4d9d929fe6.png&w=384&q=75"
-            height="30px"
-            alt="Alma Better"
+            // src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FAlma_Better_Logo_4d9d929fe6.png&w=384&q=75"
+            // height="30px"
+            // alt="Alma Better"
           />
         </NavLink>
       </Typography>
@@ -91,9 +91,9 @@ function Header(props) {
                 <NavLink to="/" className="homeIcon">
                   {" "}
                   <img
-                    src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FAlma_Better_Logo_4d9d929fe6.png&w=384&q=75"
-                    height="30px"
-                     alt="Alma Better"
+                    // src="https://www.almabetter.com/_next/image?url=https%3A%2F%2Falmablog-media.s3.ap-south-1.amazonaws.com%2FAlma_Better_Logo_4d9d929fe6.png&w=384&q=75"
+                    // height="30px"
+                    //  alt="Alma Better"
                   />
                 </NavLink>
               </Typography>
